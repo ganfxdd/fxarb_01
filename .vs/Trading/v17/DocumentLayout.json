@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|e:\\fx\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\arbitragebot 4.0\u30BD\u30FC\u30B9\\trading\\gmohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|solutionrelative:trading\\gmohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\trading\\arbitragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|solutionrelative:trading\\arbitragehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\trading\\igoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|solutionrelative:trading\\igoogle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\trading\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|solutionrelative:trading\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\trading\\mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDBA1D4-0B51-4CA5-8395-2F1175C5CF3B}|Trading\\Trading.csproj|solutionrelative:trading\\mainfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGoogle.cs",
+              "DocumentMoniker": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\IGoogle.cs",
+              "RelativeDocumentMoniker": "Trading\\IGoogle.cs",
+              "ToolTip": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\IGoogle.cs",
+              "RelativeToolTip": "Trading\\IGoogle.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T12:51:23.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainFrm.cs",
+              "DocumentMoniker": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\MainFrm.cs",
+              "RelativeDocumentMoniker": "Trading\\MainFrm.cs",
+              "ToolTip": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\MainFrm.cs",
+              "RelativeToolTip": "Trading\\MainFrm.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAwAQBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:31:39.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\Strategy.cs",
+              "RelativeDocumentMoniker": "Trading\\Strategy.cs",
+              "ToolTip": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\Strategy.cs",
+              "RelativeToolTip": "Trading\\Strategy.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAYwOMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:29:36.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArbitrageHelper.cs",
+              "DocumentMoniker": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\ArbitrageHelper.cs",
+              "RelativeDocumentMoniker": "Trading\\ArbitrageHelper.cs",
+              "ToolTip": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\ArbitrageHelper.cs",
+              "RelativeToolTip": "Trading\\ArbitrageHelper.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAAAHYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:21:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GMOHelper.cs",
+              "DocumentMoniker": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\GMOHelper.cs",
+              "RelativeDocumentMoniker": "Trading\\GMOHelper.cs",
+              "ToolTip": "E:\\FX\u30B7\u30B9\u30C6\u30E0\u6539\u9020\\ArbitrageBot 4.0\u30BD\u30FC\u30B9\\Trading\\GMOHelper.cs",
+              "RelativeToolTip": "Trading\\GMOHelper.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwHkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T00:33:59.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

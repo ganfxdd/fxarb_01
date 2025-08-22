@@ -1,0 +1,97 @@
+F:\Projects\C#\Trading\Trading\obj\Debug\Trading.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Trading\Trading\obj\Debug\Trading.Properties.Resources.resources
+F:\Projects\C#\Trading\Trading\obj\Debug\Trading.csproj.GenerateResource.Cache
+F:\Projects\C#\Trading\Trading\obj\Debug\Trading.csproj.CoreCompileInputs.cache
+F:\Projects\C#\Trading\Trading\bin\Debug\Trading.exe.config
+F:\Projects\C#\Trading\Trading\bin\Debug\Trading.exe
+F:\Projects\C#\Trading\Trading\bin\Debug\Trading.pdb
+F:\Projects\C#\Trading\Trading\bin\Debug\log4net.dll
+F:\Projects\C#\Trading\Trading\bin\Debug\MaterialSkin.dll
+F:\Projects\C#\Trading\Trading\bin\Debug\WebDriver.dll
+F:\Projects\C#\Trading\Trading\bin\Debug\log4net.xml
+F:\Projects\C#\Trading\Trading\bin\Debug\WebDriver.xml
+F:\Projects\C#\Trading\Trading\obj\Debug\Trading.exe
+F:\Projects\C#\Trading\Trading\obj\Debug\Trading.pdb
+F:\Projects\C#\Trading\Trading\bin\Debug\SeleniumExtras.WaitHelpers.dll
+F:\Projects\C#\Trading\Trading\obj\Debug\Trading.MainFrm.resources
+F:\Projects\C#\Trading\Trading\bin\Debug\CircularProgressBar.dll
+F:\Projects\C#\Trading\Trading\bin\Debug\WinFormAnimation.dll
+F:\Projects\C#\Trading\Trading\bin\Debug\CircularProgressBar.xml
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Debug\Trading.csprojAssemblyReference.cache
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Debug\Trading.MainFrm.resources
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Debug\Trading.Properties.Resources.resources
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Debug\Trading.csproj.GenerateResource.cache
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Debug\Trading.csproj.CoreCompileInputs.cache
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Debug\Trading.csproj.CopyComplete
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\CircularProgressBar.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\log4net.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\MaterialSkin.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\SeleniumExtras.WaitHelpers.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\WebDriver.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\WinFormAnimation.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\CircularProgressBar.xml
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\log4net.xml
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\WebDriver.xml
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\Arbitrage Bot.exe.config
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\Arbitrage Bot.exe
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\Arbitrage Bot.pdb
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Debug\Arbitrage Bot.exe
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Debug\Arbitrage Bot.pdb
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\Arbitrage Bot.exe.config
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\Arbitrage Bot.exe
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\Arbitrage Bot.pdb
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\CircularProgressBar.dll
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\log4net.dll
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\MaterialSkin.dll
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\SeleniumExtras.WaitHelpers.dll
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\WebDriver.dll
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\WinFormAnimation.dll
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\CircularProgressBar.xml
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\log4net.xml
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\bin\WebDriver.xml
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\obj\Debug\Trading.csprojAssemblyReference.cache
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\obj\Debug\Trading.MainFrm.resources
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\obj\Debug\Trading.Properties.Resources.resources
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\obj\Debug\Trading.csproj.GenerateResource.cache
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\obj\Debug\Trading.csproj.CoreCompileInputs.cache
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\obj\Debug\Trading.csproj.CopyComplete
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\obj\Debug\Arbitrage Bot.exe
+D:\Work\Trading\Bot\11. Web Arbitrage(C#)\ArbitrageBot\Trading\obj\Debug\Arbitrage Bot.pdb
+F:\Projects\C#\ArbitrageBot\Trading\bin\Arbitrage Bot.exe.config
+F:\Projects\C#\ArbitrageBot\Trading\bin\Arbitrage Bot.exe
+F:\Projects\C#\ArbitrageBot\Trading\bin\Arbitrage Bot.pdb
+F:\Projects\C#\ArbitrageBot\Trading\bin\CircularProgressBar.dll
+F:\Projects\C#\ArbitrageBot\Trading\bin\log4net.dll
+F:\Projects\C#\ArbitrageBot\Trading\bin\MaterialSkin.dll
+F:\Projects\C#\ArbitrageBot\Trading\bin\SeleniumExtras.WaitHelpers.dll
+F:\Projects\C#\ArbitrageBot\Trading\bin\WebDriver.dll
+F:\Projects\C#\ArbitrageBot\Trading\bin\WinFormAnimation.dll
+F:\Projects\C#\ArbitrageBot\Trading\bin\CircularProgressBar.xml
+F:\Projects\C#\ArbitrageBot\Trading\bin\log4net.xml
+F:\Projects\C#\ArbitrageBot\Trading\bin\WebDriver.xml
+F:\Projects\C#\ArbitrageBot\Trading\obj\Debug\Trading.MainFrm.resources
+F:\Projects\C#\ArbitrageBot\Trading\obj\Debug\Trading.Properties.Resources.resources
+F:\Projects\C#\ArbitrageBot\Trading\obj\Debug\Trading.csproj.GenerateResource.Cache
+F:\Projects\C#\ArbitrageBot\Trading\obj\Debug\Trading.csproj.CoreCompileInputs.cache
+F:\Projects\C#\ArbitrageBot\Trading\obj\Debug\Arbitrage Bot.exe
+F:\Projects\C#\ArbitrageBot\Trading\obj\Debug\Arbitrage Bot.pdb
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\Arbitrage Bot.exe.config
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\Arbitrage Bot.exe
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\Arbitrage Bot.pdb
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\CircularProgressBar.dll
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\log4net.dll
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\MaterialSkin.dll
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\SeleniumExtras.WaitHelpers.dll
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\WebDriver.dll
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\WinFormAnimation.dll
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\CircularProgressBar.xml
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\log4net.xml
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\bin\WebDriver.xml
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\obj\Debug\Trading.csproj.AssemblyReference.cache
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\obj\Debug\Trading.MainFrm.resources
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\obj\Debug\Trading.Properties.Resources.resources
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\obj\Debug\Trading.csproj.GenerateResource.cache
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\obj\Debug\Trading.csproj.CoreCompileInputs.cache
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\obj\Debug\Trading.csproj.Up2Date
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\obj\Debug\Arbitrage Bot.exe
+E:\FXシステム改造\ArbitrageBot 4.0ソース\Trading\obj\Debug\Arbitrage Bot.pdb

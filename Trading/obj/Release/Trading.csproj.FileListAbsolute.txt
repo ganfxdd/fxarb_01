@@ -1,0 +1,19 @@
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\Arbitrage Bot.exe.config
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\Arbitrage Bot.exe
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\Arbitrage Bot.pdb
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\CircularProgressBar.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\log4net.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\MaterialSkin.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\SeleniumExtras.WaitHelpers.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\WebDriver.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\WinFormAnimation.dll
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\CircularProgressBar.xml
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\log4net.xml
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\bin\WebDriver.xml
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Release\Trading.MainFrm.resources
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Release\Trading.Properties.Resources.resources
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Release\Trading.csproj.GenerateResource.cache
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Release\Trading.csproj.CoreCompileInputs.cache
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Release\Trading.csproj.CopyComplete
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Release\Arbitrage Bot.exe
+D:\Work\Trading\Bot\11. Fix API Automation(C#)\Trading\Trading\obj\Release\Arbitrage Bot.pdb
